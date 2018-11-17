@@ -1,5 +1,5 @@
 # source: https://us1.prisma.sh/frederickaalcantara-449017/sick-fits/dev
-# timestamp: Thu Nov 15 2018 23:22:28 GMT-0500 (Eastern Standard Time)
+# timestamp: Fri Nov 16 2018 19:29:50 GMT-0500 (Eastern Standard Time)
 
 type AggregateItem {
   count: Int!
